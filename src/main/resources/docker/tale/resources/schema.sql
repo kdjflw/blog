@@ -44,8 +44,8 @@ INSERT INTO t_contents (allow_feed,allow_ping,allow_comment,comments_num,hits,
 categories,tags,fmt_type,status,type,author_id,content,modified,created,thumb_img,slug,title,cid) VALUES (
 NULL,1,1,0,0,NULL,NULL,'markdown','publish','page',1,'## 友情链接
 
-- :lock: [颓废书生-博客](http://www.tfss.me/)
-- :lock: [颓废书生-论坛](http://www.tfssweb.com/)
+- :lock: [x-博客](#)
+- :lock: [x-论坛](#)
 - :lock: [友情链接]()
 
 ## 链接须知
